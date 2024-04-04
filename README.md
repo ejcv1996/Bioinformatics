@@ -1,6 +1,4 @@
-Protein Structure Prediction App
-```
-```
+Protein Prediction App
 
 Description of the app ...
 
