@@ -8,10 +8,10 @@ A Protein Structure Prediction App developed for Dr. Du's Bioinformatics class.
 
 ## Members
 
-Esteban Cabrera
-Kamsy Okafor
-Damian Cordova
-Brionce Lennon-Llanos
+-Esteban Cabrera
+-Kamsy Okafor
+-Damian Cordova
+-Brionce Lennon-Llanos
 
 ## Further Reading
 For more information, read the following articles:
