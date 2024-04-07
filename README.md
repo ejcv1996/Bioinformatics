@@ -1,14 +1,17 @@
-# 🎈 Testing
+# Protein Structure Prediction
 
-[*ESMFold*](https://esmatlas.com/about) is an end-to-end single sequence protein structure predictor based on the ESM-2 language model.
+A Protein Structure Prediction App developed for Dr. Du's Bioinformatics class.
 
 ## Demo App
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://Testing.streamlit.app/)
 
-## Credit
+## Members
 
-This app was inspired by [osanseviero's app](https://huggingface.co/spaces/osanseviero/esmfold).
+Esteban Cabrera
+Kamsy Okafor
+Damian Cordova
+Brionce Lennon-Llanos
 
 ## Further Reading
 For more information, read the following articles:
