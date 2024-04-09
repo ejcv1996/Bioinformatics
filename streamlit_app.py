@@ -6,7 +6,7 @@ import biotite.structure.io as bsio
 
 #st.set_page_config(layout = 'wide')
 st.sidebar.title('Protein Structure Prediction App')
-st.sidebar.write('A Protein Structure Prediction App developed for Dr. Dus Bioinformatics class.')
+st.sidebar.write('A Protein Structure Prediction App developed for ❤️ Dr. Dus Bioinformatics class.')
 
 # stmol
 def render_mol(pdb):
