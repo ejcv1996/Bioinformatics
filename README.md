@@ -1,6 +1,6 @@
 # Protein Structure Prediction
 
-A Protein Structure Prediction App developed for Dr. Du's Bioinformatics class.
+A Protein Structure Prediction App developed for ❤️ Dr. Du's Bioinformatics class.
 
 ## Demo App
 
