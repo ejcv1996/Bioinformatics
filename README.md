@@ -4,7 +4,7 @@ A Protein Structure Prediction App developed for ❤️ Dr. Du's Bioinformatics 
 
 ## Demo App
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](http://Bioinformatics-Presentation.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](http://ejcv1996/Bioinformatics-Presentation.streamlit.app/)
 
 ## Members
 
